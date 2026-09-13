@@ -1,0 +1,36 @@
+#######################################
+# Syntax Highlighting For PersianOLED
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PersianOLED	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+reshape	KEYWORD2
+toPersianDigits	KEYWORD2
+setConvertDigits	KEYWORD2
+getConvertDigits	KEYWORD2
+setFont	KEYWORD2
+setTextSize	KEYWORD2
+print	KEYWORD2
+printRight	KEYWORD2
+printCenter	KEYWORD2
+printLeft	KEYWORD2
+getTextWidth	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+PERSIAN_FONT_SMALL	LITERAL1
+PERSIAN_FONT_MEDIUM	LITERAL1
+PERSIAN_FONT_LARGE	LITERAL1
+PERSIAN_ALIGN_RIGHT	LITERAL1
+PERSIAN_ALIGN_CENTER	LITERAL1
+PERSIAN_ALIGN_LEFT	LITERAL1
